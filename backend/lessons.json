@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Algebra Foundations",
+    "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=900&auto=format&fit=crop&q=80",
+    "subject": "Mathematics",
+    "description": "Build confidence with equations, expressions, and core algebra skills.",
+    "instructor": "Alex Morgan",
+    "availableSeats": 5,
+    "duration": "8 weeks",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Biology",
+    "imageUrl": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=900&auto=format&fit=crop&q=80",
+    "subject": "Science",
+    "description": "Explore cells, ecosystems, and the fundamentals of living things.",
+    "instructor": "Jamie Patel",
+    "availableSeats": 5,
+    "duration": "8 weeks",
+    "price": 35
+  },
+  {
+    "id": 3,
+    "title": "English Writing Workshop",
+    "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=900&auto=format&fit=crop&q=80",
+    "subject": "English",
+    "description": "Practice clear writing, grammar, and thoughtful essay structure.",
+    "instructor": "Taylor Reed",
+    "availableSeats": 5,
+    "duration": "8 weeks",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "title": "World History Essentials",
+    "imageUrl": "https://images.unsplash.com/photo-1461360228754-6e81c478b882?w=900&auto=format&fit=crop&q=80",
+    "subject": "History",
+    "description": "Connect key events and ideas that shaped the modern world.",
+    "instructor": "Jordan Lee",
+    "availableSeats": 5,
+    "duration": "8 weeks",
+    "price": 40
+  },
+  {
+    "id": 5,
+    "title": "Coding with JavaScript",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=900&auto=format&fit=crop&q=80",
+    "subject": "Computer Science",
+    "description": "Learn programming fundamentals by building interactive projects.",
+    "instructor": "Sam Rivera",
+    "availableSeats": 5,
+    "duration": "8 weeks",
+    "price": 50
+  },
+  {
+    "id": 6,
+    "title": "Geometry and Problem Solving",
+    "imageUrl": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=900&auto=format&fit=crop&q=80",
+    "subject": "Mathematics",
+    "description": "Understand shapes, angles, and practical geometry strategies.",
+    "instructor": "Alex Morgan",
+    "availableSeats": 5,
+    "duration": "8 weeks",
+    "price": 45
+  }
+]
